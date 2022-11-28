@@ -1,0 +1,12 @@
+a{
+    color: white;
+}
+
+#header{
+    font-size: 25px;
+}
+
+/*başta loading görseli gözükmesin diye */
+#loading{
+    display: none;
+}
